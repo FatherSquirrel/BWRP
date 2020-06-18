@@ -21,7 +21,7 @@ AddSimpleModel(-1, 336, -1019, "axe.dff", "axe.txd");
 AddSimpleModel(-1, 5476, -1020, "building.dff", "building.txd");
 AddSimpleModel(-1, 4572, -1021, "building2.dff", "building2.txd");
 AddSimpleModel(-1, 8169, -1022, "landmass.dff", "landmass.txd");
-AddSimpleModel(-1, 5503, -1023, "carretera.dff", "carretera.txd");
+AddSimpleModel(-1, 18753, -1023, "carretera.dff", "carretera.txd");
 AddCharModel(280, 25000, "sher1.dff", "sher1.txd");
 AddCharModel(280, 25001, "sher2.dff", "sher2.txd");
 AddCharModel(280, 25002, "sher3.dff", "sher3.txd");
